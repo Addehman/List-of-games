@@ -64,6 +64,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Rome: Total War](https://en.wikipedia.org/wiki/Rome:_Total_War) - Awesome and deep turn-based strategy game in which you attempt to build an empire to conquer the known world (Europe + a bit of Africa and Asia). Also, you can direct the battles yourself, which means that you can feel super awesome when winning against very unlikely odds!
 
+- [Kingdom: Two Crowns](https://kingdomthegame.fandom.com/wiki/Kingdom_Two_Crowns) - Be the monarch and manage your kingdom by simply distributing money, and avoid losing the Crown! Build, explore and expand! (A perfect laidback couch-game with soothingly beautiful pixel-graphics..)
+
 ## Sports
 - [Blades of Steel](https://en.wikipedia.org/wiki/Blades_of_Steel) - Old school hockey action!
 
